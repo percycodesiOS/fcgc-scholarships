@@ -1,6 +1,6 @@
 # FCGC Scholarships
 
-Fox Chapel Golf Club Scholarship Foundation's 2027 application website.
+Review preview of the Fox Chapel Golf Club Scholarship Foundation's 2027 application website. The online format is pending Foundation approval; the editable document packet can be used independently.
 
 **Website:** https://percycodesios.github.io/fcgc-scholarships/
 
