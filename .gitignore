@@ -1,0 +1,13 @@
+node_modules/
+.env
+.env.*
+Applications/
+Editing/
+Versions/
+private/
+qa/
+*-draft.json
+2027-Fox-Chapel-Scholarship-Packet.pdf
+*.log
+Thumbs.db
+.DS_Store
